@@ -1,3 +1,4 @@
 My first test text file
 changes after creating branch1
 made changes and will push to new branch branch2
+changes added from remote/server to branch2
