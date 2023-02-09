@@ -3,3 +3,4 @@ changes after creating branch1
 made changes and will push to new branch branch2
 changes added from remote/server 
 again changes added from remote/server
+some changes added to master
