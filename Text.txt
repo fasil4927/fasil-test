@@ -1,6 +1,10 @@
 My first test text file
 changes after creating branch1
+<<<<<<< HEAD
 made changes and will push to new branch branch2
 changes added from remote/server 
 again changes added from remote/server
 some changes added to master
+=======
+changes added on branch1
+>>>>>>> branch1
